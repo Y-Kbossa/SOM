@@ -1,1 +1,1 @@
-Scratch code for creating Self-Organizing map
+# Scratch code for creating Self-Organizing map
